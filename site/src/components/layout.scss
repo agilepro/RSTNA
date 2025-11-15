@@ -1,0 +1,111 @@
+//Here you can customize bootstrap
+$primary: #663399;
+@import "~bootstrap/scss/bootstrap";
+
+body {
+    background-image: url(../images/parchment-scaled.jpg);
+}
+
+.navBarStyle {
+    background-color: #4676BA;
+}
+
+/* Navigation.css */
+
+.main-menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .main-menu > li {
+    position: relative;
+    margin-right: 20px;
+  }
+  
+  .main-menu > li > a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px;
+    display: block;
+  }
+  
+  .submenu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #4676BA;
+    color: white;
+    min-width: 150px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .main-menu > li:hover .submenu {
+    display: block;
+    background-color: #336AB7;
+  }
+  
+  .submenu li a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .submenu li a:hover {
+    background-color: #336AB7;
+  }
+
+  .max-width-400 {
+    max-width: 420px;
+    flex-basis: auto;
+  }
+
+  .my-flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    column-gap: 20px;
+    max-width: 860px;
+    margin: auto;
+  }
+
+td {
+    font-family:  'Fondamento', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  padding: 15px;
+  border-top: 1px #eab965 solid;
+  border-bottom: 1px #eab965 solid;
+
+}
+th {
+    font-family:  'Fondamento', sans-serif;
+    font-weight: 500;
+  padding: 15px;
+  border-bottom: 1px #eab965 solid;
+}
+
+.thumbnail {
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+  box-shadow: 2px 2px 3px 1px #7e7058;
+  background-color: #7e7058;
+}
+
+.thumbHolder {
+  float: left;
+  padding: 5px;
+  margin: 5px;
+}
+
+.stupidFloatEnder {
+  clear: both;
+}

@@ -1,0 +1,53 @@
+
+h1 {
+    font-family:  'Fondamento', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+h2 {
+    font-family:  'Fondamento', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+h3 {
+    font-family:  'Fondamento', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+.pagefoot {
+    font-family:  'Fondamento', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 14pt;
+    text-align: center;
+    color: #AF6B2B;
+}
+
+.navbar-brand {
+    font-family:  'Fondamento', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20pt;
+    color: #AF6B2B;
+}
+
+.spaceyTable tr td {
+    padding: 30px;
+    vertical-align: text-top;
+}
+
+.mainContentDiv {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.footer-message {
+    font-family:  'Fondamento', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.25rem;
+    color: White;
+    text-decoration: none;
+}
