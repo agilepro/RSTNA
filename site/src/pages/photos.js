@@ -2,7 +2,6 @@ import * as React from "react"
 
 import Layout from "../components/layout"
 import {Seo} from "../components/seo"
-import DonateButton from "../components/donateButton"
 import { graphql } from "gatsby"
 import {getImage, GatsbyImage} from "gatsby-plugin-image"
 
@@ -26,7 +25,6 @@ const PhotoPage = ({data}) => (
           );
         })}
         <div class="stupidFloatEnder"></div>
-        <DonateButton/>
       </div>
     </div>
   </Layout>

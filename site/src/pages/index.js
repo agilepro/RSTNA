@@ -10,14 +10,14 @@ const IndexPage = () => (
     <section className="py-5 text-center container">
       <div className="row py-lg-5">
         <div className="col-lg-6 col-md-8 mx-auto">
-          <h1 className="fw-light">Rancho Santa Teresa Neighborhood Association</h1>
+          <h1 className="fw-light">Rancho Santa Teresa Neighborhood Association (RSTNA)</h1>
           <Link to="/events">
             <StaticImage
               src="../images/front-image.jpg"
               width={600}
               quality={95}
               formats={["AUTO", "WEBP"]}
-              alt="Baroque"
+              alt="RSTNA"
               className="img-fluid"
             />
             <p> </p>

@@ -3,16 +3,24 @@ h1 {
     font-family:  'Fondamento', sans-serif;
     font-weight: 300;
     font-style: normal;
+    margin-top: 50px;
+    color: black;
 }
 h2 {
     font-family:  'Fondamento', sans-serif;
     font-weight: 300;
     font-style: normal;
+    margin-top: 150px;
+    font-size: 32px;
+    color: #315382;
 }
 h3 {
     font-family:  'Fondamento', sans-serif;
     font-weight: 300;
     font-style: normal;
+    font-size: 24px;
+    color: #4676BA;
+    padding-left:30px;
 }
 
 
@@ -50,4 +58,11 @@ h3 {
     font-size: 1.25rem;
     color: White;
     text-decoration: none;
+}
+
+/* Responsive media query */
+@media (min-width: 600px) {
+    h3 {
+        font-size: 24px; /* Adjust size for larger screens */
+    }
 }

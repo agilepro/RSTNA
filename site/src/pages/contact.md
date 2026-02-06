@@ -5,5 +5,8 @@ slug: "/contact"
 
 # We'd love to hear from you!
 
-how to contact RSTNA
+Email: ranchostna@gmail.com 
+
+
+
 

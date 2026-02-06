@@ -1,6 +1,6 @@
-# Santa Cruz Baroque Festival Website
+# Rancho Santa Teresa Neighborhood Association Website
 
-This repository is for maintaining the website for the non-profit organization that produces the Santa Cruz Baroque Festival every year.
+This repository is for maintaining the website for Rancho Santa Teresa Neighborhood Association
 
 
 ## Design Goals

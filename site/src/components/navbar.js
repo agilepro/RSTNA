@@ -8,23 +8,27 @@ const menuItems = [
     title: 'About',
     path: '/goals',
     subItems: [
-      { title: 'Purpose & History', path: '/goals' },
+      { title: 'Purpose', path: '/goals' },
+      { title: 'History', path: '/history' },
       { title: 'People', path: '/leadership' },
       { title: 'Contact', path: '/contact' },
       { title: 'DEI Statement', path: '/dei-statement' },
     ],
   },
   {
-    title: 'Beautification',
-    path: '/beautification'
+    title: 'Contact',
+    path: '/contact',
   },
   {
-    title: 'Crime Watch',
-    path: '/crime',
-  },
-  {
-    title: 'Emergency',
-    path: '/emergency',
+    title: 'Committees',
+    path: '/goals',
+    subItems: [
+      { title: 'Communications', path: '/communications' },
+      { title: 'Community Action', path: '/community-action' },
+      { title: 'Community Building', path: '/beautification' },
+      { title: 'Crime Watch', path: '/crime' },
+      { title: 'Emergency', path: '/emergency' },
+    ],
   },
   {
     title: 'Events',
