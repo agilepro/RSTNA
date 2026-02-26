@@ -22,7 +22,7 @@ slug: "/leadership"
 
 &nbsp;
 
-## Keith Swenson, Community Action
+## Keith Swenson, Webmaster
 
 &nbsp;
 
@@ -37,5 +37,6 @@ slug: "/leadership"
 ## Raul Lopez, Crime and Neighborhood Watch
 
 
+![](../images/RSTNA_firt_pic.jpg)
 
 

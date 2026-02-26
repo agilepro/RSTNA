@@ -1,31 +1,31 @@
 
 h1 {
-    font-family:  'Fondamento', sans-serif;
+    font-family:  'Calibri', sans-serif;
     font-weight: 300;
     font-style: normal;
     margin-top: 50px;
-    color: black;
+    color: #0679b6;
 }
 h2 {
-    font-family:  'Fondamento', sans-serif;
+    font-family:  'Calibri', sans-serif;
     font-weight: 300;
     font-style: normal;
     margin-top: 150px;
     font-size: 32px;
-    color: #315382;
+    color: #084e0f;
 }
 h3 {
-    font-family:  'Fondamento', sans-serif;
+    font-family:  'Calibri', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 24px;
-    color: #4676BA;
+    color: #19939e;
     padding-left:30px;
 }
 
 
 .pagefoot {
-    font-family:  'Fondamento', sans-serif;
+    font-family:  'Calibri', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 14pt;
@@ -34,7 +34,7 @@ h3 {
 }
 
 .navbar-brand {
-    font-family:  'Fondamento', sans-serif;
+    font-family:  'Calibri', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 20pt;
@@ -52,7 +52,7 @@ h3 {
 }
 
 .footer-message {
-    font-family:  'Fondamento', sans-serif;
+    font-family:  'Calibri', sans-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 1.25rem;

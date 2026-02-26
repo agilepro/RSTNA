@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <nav className="navbar navbar-expand-md navbar-dark navBarStyle">
       <div className="container-fluid">
-        <Link to="/" className="footer-message" href="#">Rancho Santa Teresa Neighborhood Association</Link>
+        <Link to="/" className="footer-message" href="#">RSTNA</Link>
       </div>
     </nav>
   )

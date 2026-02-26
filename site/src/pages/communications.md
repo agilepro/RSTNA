@@ -17,3 +17,7 @@ The Communications Committee supports the association's mission by providing inf
 * Provide links to resources within the community
 
 ----
+
+We are currently working on several communication avenues, among them are flyers, establishing and keeping connections with fellow neighborhood associations, and developing a Discord server for our neighborhood. Currently, we do not have enough moderators to run that Discord server in an orderly manner. 
+
+If you are interested in helping with any of these communication avenues, please contact us at ranchostna@gmail.com. Attention of Communications Committee.

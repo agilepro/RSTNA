@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Rancho Santa Teresa Neighborhood Association`,
+    title: `RSTNA`,
     description: `This is the site for the Rancho Santa Teresa Neighborhood Association.`,
     author: `Keith Swenson`,
   },

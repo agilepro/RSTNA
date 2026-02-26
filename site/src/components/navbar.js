@@ -11,7 +11,6 @@ const menuItems = [
       { title: 'Purpose', path: '/goals' },
       { title: 'History', path: '/history' },
       { title: 'People', path: '/leadership' },
-      { title: 'Contact', path: '/contact' },
       { title: 'DEI Statement', path: '/dei-statement' },
     ],
   },
@@ -26,8 +25,8 @@ const menuItems = [
       { title: 'Communications', path: '/communications' },
       { title: 'Community Action', path: '/community-action' },
       { title: 'Community Building', path: '/beautification' },
-      { title: 'Crime Watch', path: '/crime' },
-      { title: 'Emergency', path: '/emergency' },
+      { title: 'Neighborhood Watch', path: '/crime' },
+      { title: 'Emergency Preparedness', path: '/emergency' },
     ],
   },
   {
@@ -45,7 +44,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-md navbar-dark navBarStyle">
       <div className="container-fluid">
-        <Link to="/" className="navbar-brand" href="#">Rancho Santa Teresa Neighborhood Association</Link>
+        <Link to="/" className="navbar-brand" href="#">RSTNA</Link>
         <ul className="main-menu">
           {menuItems.map((item, index) => (
             <li key={index}>

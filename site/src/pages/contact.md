@@ -5,7 +5,10 @@ slug: "/contact"
 
 # We'd love to hear from you!
 
-Email: ranchostna@gmail.com 
+&nbsp;
+
+
+# Email: ranchostna@gmail.com 
 
 
 

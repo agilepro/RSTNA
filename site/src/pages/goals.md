@@ -11,7 +11,7 @@ The Rancho Santa Teresa Neighborhood Association Committees play a crucial role 
 
 ## Difference from Rancho Santa Teresa Swim and Racquet Club
 
-Please be aware that the Rancho Santa Teresa Neighborhood Association (“RSTNA”) and the [Rancho Santa Teresa Swim and Racquet Club](https://www.ranchosantateresa.org/) (“Club”) are two separate organizations. The management of the Club has a great deal of work and responsibility managing the clubhouse, swimming pool, etc. and making sure everything is insured and the bills are paid. They understandably feel that they are donating enough of their time to fulfill those duties and don’t want to undertake any efforts on external or political matters.
+Despite the boundaries being the same, please be aware that the Rancho Santa Teresa Neighborhood Association (“RSTNA”) and the [Rancho Santa Teresa Swim and Racquet Club](https://www.ranchosantateresa.org/) (“Club”) are two separate organizations. The management of the Club has a great deal of work and responsibility managing the clubhouse, swimming pool, etc. and making sure everything is insured and the bills are paid. They understandably feel that they are donating enough of their time to fulfill those duties and don’t want to undertake any efforts on external or political matters.
 
 The raison d’etre of RSTNA is to protect the interests of ourselves and our neighbors, particularly in matters involving the city and county governments and the safety and wellbeing of our neighborhood.
 

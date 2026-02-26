@@ -20,6 +20,15 @@ const IndexPage = () => (
               alt="RSTNA"
               className="img-fluid"
             />
+            <p></p>
+            <StaticImage
+              src="../images/rstna-logo.png"
+              width={150}
+              quality={95}
+              formats={["AUTO", "WEBP"]}
+              alt="RSTNA"
+              className="img-fluid"
+            />
             <p> </p>
           </Link>
         </div>
