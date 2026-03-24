@@ -30,18 +30,6 @@ module.exports = {
         },
       },
     },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `santa-cruz-baroque`,
-        short_name: `scbf`,
-        start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
-        display: `standalone`,
-        icon: `src/images/scbf-icon.jpg`, // This path is relative to the root of the site.
-      },
-    },
     `gatsby-plugin-gatsby-cloud`,
     {
       resolve: `gatsby-source-filesystem`,
