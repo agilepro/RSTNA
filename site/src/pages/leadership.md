@@ -18,7 +18,7 @@ slug: "/leadership"
 
 &nbsp;
 
-## Joyce Collier, Community Building and Beautification
+## Joyce Collier, Community Building
 
 &nbsp;
 
@@ -33,9 +33,6 @@ slug: "/leadership"
 ## Mike Bryant, Emergency Preparedness
 
 &nbsp;
-
-## Raul Lopez, Crime and Neighborhood Watch
-
 
 ![](../images/RSTNA_firt_pic.jpg)
 
