@@ -22,7 +22,7 @@ Please review
 * [Minutes of the June 2025 Meeting](../2025-june-minutes/) - [doc](../RSTNA-MeetingMinutes-2025-06-13.docx)
 
 
-![](./RSTNA-GeneralMeeting-20260226.png)
+![](../RSTNA-GeneralMeeting-20260226.png)
 
 &nbsp;
 

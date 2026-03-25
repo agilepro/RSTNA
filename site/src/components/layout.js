@@ -23,7 +23,8 @@ const Layout = ({ children }) => {
       <Helmet>
         <link rel="preconnect" href="https://fonts.googleapis.com"/>
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-        <link href="https://fonts.googleapis.com/css2?family=Fondamento:ital@0;1&family=Kaushan+Script&display=swap" rel="stylesheet"/>
+        <link href="https://fonts.googleapis.com/css2?family=Acme&display=swap" 
+              rel="stylesheet"/>
       </Helmet>
       <Navbar siteTitle={data.site.siteMetadata?.title || `Title`} />
       <main>
