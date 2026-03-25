@@ -15,6 +15,6 @@ The Crime & Neighborhood Watch Committee is dedicated to promoting safety and se
 
 ----
 
-We started to form Neighborhood Watches for several streets within our Neighborhood Association. This is an ongoing process. Once Neighborhood Watches form, they receive signs from the city. Raul Lopez coordinates the Neighborhood Watches and has facilitated the SJPD meetings, preceding and following the establishment of those Watches. 
+We started to form Neighborhood Watches for several streets within our Neighborhood Association. This is an ongoing process. Once Neighborhood Watches form, they receive signs from the city.
 
 If you are interested in Crime Prevention and Neighborhood Watch Groups, please contact us at ranchostna@gmail.com . Attention of Crime Prevention and Neighborhood Watch Committee. 
