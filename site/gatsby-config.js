@@ -33,7 +33,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `santa-cruz-baroque`,
+        name: `rancho-santa-teresa-neighborhood-association`,
         short_name: `scbf`,
         start_url: `/`,
         background_color: `#663399`,

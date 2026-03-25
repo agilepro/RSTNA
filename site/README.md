@@ -70,12 +70,12 @@ Demo here : https://gatsbystarterbootstrap5.gatsbyjs.io/
 npm install -g gatsby-cli
 ```
 
-1. Pull a copy of this Repository to a folder named `baroque`
+1. Pull a copy of this Repository to a folder named `rstna`
 
 1. Navigate into your new site's directory and start it up.
 
     ```shell
-    cd baroque
+    cd rstna
     gatsby develop
     ```
 

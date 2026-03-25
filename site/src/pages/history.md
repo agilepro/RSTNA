@@ -5,6 +5,12 @@ slug: "/history"
 
 The Rancho Santa Teresa Neighborhood Association was founded in 2025 holding its first General Meeting in June 2025.  You will find a brief history of our Association below with the most recent activities and events at the top, including links to meeting minutes and other relevant documents.
 
+## General Meeting - Feb 2026
+
+The February meeting included RSTNA Committee updates and a presentation on the VTA Safe Parking Site.  [Minutes of the Feb 2026 meeting](https://s06.circleweaver.com/weaver/t/rstna/main-committee/MeetPrint.htm?id=8710&tem=MinutesDetails.chtml&mnm=R9B5P4Q2). Presentation Slides - Safe Parking
+
+
+
 ## Neighborhood Watch Program - Dec 2025
 
 On December 4, a Crime Prevention Specialist from the San José Police Department gave a 2-hour program with detailed information about forming a Neighborhood Watch Group.  Participants received Neighborhood Watch signs to put in their windows.
@@ -17,8 +23,8 @@ Councilmember George Casey and RSTNA sponsored a Dumpster Day for the local comm
 
 The October meeting included RSTNA Committee updates and a presentation on Earthquake Preparedness.  
 
-* [Minutes of the General meeting](https://s06.circleweaver.com/weaver/t/rstna/main-committee/MeetPrint.htm?id=6858&tem=MinutesDetails.chtml&mnm=A5N5O4Q2). 
-* [RSTNA Preparedness 2025 October](../RSTNA-Preparedness-2025-10.docx)
+* [Minutes of the Oct 2025 meeting](https://s06.circleweaver.com/weaver/t/rstna/main-committee/MeetPrint.htm?id=6858&tem=MinutesDetails.chtml&mnm=A5N5O4Q2). 
+* [Presentation Slides Emergency Preparedness](../RSTNA-Preparedness-2025-10.pdf)
 
 ## Neighborhood Watch Program - Oct 2025
 
@@ -33,8 +39,8 @@ National Night Out was held at the Clubhouse on August 5th.  George Casey, San J
 ## General Meeting – Jun 2025
 At the June meeting, Bill Wolf, acting RSTNA President, introduced the acting RSTNA officers and committee chairs.  George Casey, San José Councilmember for District 10, emphasized the importance of neighborhood associations and Community Emergency Preparedness Teams (CERTs).  The [survey results](../survey-summer-2025/) were shared, and attendees met with and signed up for committees.
 
-* [2025 Summer Survey](../survey-summer-2025/) - [doc](../RSTNA-SurveyResultsSummary-2025-06-08.docx)
-* [Minutes of the June 2025 Meeting](../2025-june-minutes/) - [doc](../RSTNA-MeetingMinutes-2025-06-13.docx)
+* [Minutes of the June 2025 meeting](../2025-june-minutes/) - [doc](../RSTNA-MeetingMinutes-2025-06-13.pdf)
+* [2025 Summer Survey](../survey-summer-2025/) - [doc](../RSTNA-SurveyResultsSummary-2025-06-08.pdf)
 
 
  

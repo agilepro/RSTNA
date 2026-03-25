@@ -34,6 +34,10 @@ const menuItems = [
     path: '/events',
   },
   {
+    title: 'Notes',
+    path: '/notes',
+  },
+  {
     title: 'Photos',
     path: '/photos',
   },
