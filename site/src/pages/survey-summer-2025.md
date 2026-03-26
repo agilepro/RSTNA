@@ -1,6 +1,9 @@
 ---
 slug: "/survey-summer-2025"
 ---
+
+<title>RSTNA: June 2025 Survey Results</title>
+
 # Rancho Santa Teresa Community Association
 
 ## Survey Results (as of June 8, 2025)

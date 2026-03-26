@@ -1,6 +1,9 @@
 ---
 slug: "/2025-june-minutes"
 ---
+
+<title>RSTNA: Minutes June 2025</title>
+
 # Rancho Santa Teresa Neighborhood Association (RSTNA) 
 ## Meeting- June 13, 2025
 

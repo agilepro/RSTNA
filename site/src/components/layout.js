@@ -25,7 +25,7 @@ const Layout = ({ children }) => {
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
         <link href="https://fonts.googleapis.com/css2?family=Acme&display=swap" 
               rel="stylesheet"/>
-        <title>TEST</title>
+        <title></title>
       </Helmet>
       <Navbar siteTitle={data.site.siteMetadata?.title || `Title`} />
       <main>

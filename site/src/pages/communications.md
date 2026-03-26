@@ -2,6 +2,8 @@
 slug: "/communications"
 ---
 
+<title>RSTNA: Communications Committee</title>
+
 # Communications Committee
 
 ## Purpose

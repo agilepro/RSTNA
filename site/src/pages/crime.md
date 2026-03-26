@@ -1,6 +1,9 @@
 ---
 slug: "/crime"
 ---
+
+<title>RSTNA: Crime and Neighborhood Watch Committee</title>
+
 # Crime and Neighborhood Watch Committee
 
 ## Purpose 
