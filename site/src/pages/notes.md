@@ -1,8 +1,7 @@
 ---
 slug: "/notes"
+title: "RSTNA: Notes"
 ---
-
-<title>RSTNA: Notes</title>
 
 # Notes
 

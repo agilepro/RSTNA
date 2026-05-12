@@ -1,9 +1,8 @@
 ---
 date: "2024-07-14"
 slug: "/contact"
+title: "RSTNA: Contact"
 ---
-
-<title>RSTNA: Contact</title>
 
 # We'd love to hear from you!
 

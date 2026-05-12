@@ -1,5 +1,6 @@
 ---
 slug: "/dei-statement"
+title: "RSTNA: DEI"
 ---
 
 <title>RSTNA: DEI</title>

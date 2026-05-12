@@ -1,7 +1,7 @@
 ---
 slug: "/history"
+title: "RSTNA: History"
 ---
-<title>RSTNA: History</title>
 
 # History
 

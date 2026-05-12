@@ -1,7 +1,7 @@
 ---
 slug: "/goals"
+title: "RSTNA: About"
 ---
-<title>RSTNA: About</title>
 
 # About Rancho Santa Teresa Neighborhood Association
 

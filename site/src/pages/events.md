@@ -1,8 +1,7 @@
 ---
 slug: "/events"
+title: "RSTNA: Events"
 ---
-
-<title>RSTNA: Events</title>
 
 # Upcoming Events
 
