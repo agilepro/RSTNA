@@ -1,5 +1,6 @@
 ---
 slug: "/communications"
+title: "RSTNA: Communications Committee"
 ---
 
 # Communications Committee

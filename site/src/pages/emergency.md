@@ -1,7 +1,8 @@
 ---
 slug: "/emergency"
-title: "Emergency Preparedness Committee"
+title: "RSTNA: Emergency Preparedness Committee"
 ---
+
 # Emergency Preparedness Committee
 
 ## Purpose

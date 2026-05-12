@@ -1,6 +1,8 @@
 ---
 slug: "/leadership"
+title: "RSTNA: Leadership"
 ---
+
 # Meet the Leadership of RSTNA
 
 &nbsp;

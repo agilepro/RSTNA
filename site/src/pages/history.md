@@ -1,6 +1,8 @@
 ---
 slug: "/history"
+title: "RSTNA: History"
 ---
+
 # History
 
 The Rancho Santa Teresa Neighborhood Association was founded in 2025 holding its first General Meeting in June 2025.  You will find a brief history of our Association below with the most recent activities and events at the top, including links to meeting minutes and other relevant documents.

@@ -1,6 +1,8 @@
 ---
 slug: "/notes"
+title: "RSTNA: Notes"
 ---
+
 # Notes
 
 ## Privacy - DROP (Delete Request and Opt-out Program) - privacy.ca.gov/drop 

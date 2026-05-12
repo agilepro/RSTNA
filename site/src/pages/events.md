@@ -1,6 +1,8 @@
 ---
 slug: "/events"
+title: "RSTNA: Events"
 ---
+
 # Upcoming Events
 
 ## CERT 5K Family Fun Run - Mar 28, 2026 (free)

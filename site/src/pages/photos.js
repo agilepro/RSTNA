@@ -7,6 +7,7 @@ import {getImage, GatsbyImage} from "gatsby-plugin-image"
 
 const PhotoPage = ({data}) => (
   <Layout>
+    <title>RSTNA: Photos</title>
     <div className="container  my-5">
       <div className="container">
         <h1>Photo Gallery</h1>

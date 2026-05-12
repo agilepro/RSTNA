@@ -1,6 +1,8 @@
 ---
 slug: "/goals"
+title: "RSTNA: About"
 ---
+
 # About Rancho Santa Teresa Neighborhood Association
 
 ## Mission Statement

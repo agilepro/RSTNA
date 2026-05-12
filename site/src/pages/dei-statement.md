@@ -1,6 +1,10 @@
 ---
 slug: "/dei-statement"
+title: "RSTNA: DEI"
 ---
+
+<title>RSTNA: DEI</title>
+
 # Diversity, Equity, and Inclusion Statement
 
 At Rancho Santa Teresa Neighborhood Association, we do not discriminate on the basis of any protected category.

@@ -1,6 +1,8 @@
 ---
 slug: "/beautification"
+title: "RSTNA: Community Building Committee"
 ---
+
 # Community Building Committee
 
 

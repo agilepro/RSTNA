@@ -1,5 +1,6 @@
 ---
 slug: "/community-action"
+title: "RSTNA: Community Action Committee"
 ---
 
 # Community Action Committee
