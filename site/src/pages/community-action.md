@@ -17,19 +17,20 @@ The Community Action Committee aims to mobilize residents to address local issue
 
 ----
 
-We are currently in the process of gathering information regarding several issues that concern our neighborhood. Part of that is a discussion about the equal distribution of living spaces for unhoused people in San Jose at our next general meeting. 
+We are currently in the process of gathering information regarding several issues that concern our neighborhood.
 
 We also compiled a list of government contacts for those officials who are responsible for our neighborhood.  Feel free to use this resource to contact these officials.
 
 
-* [George Casey  District 10 City of San Jose](https://www.sjdistrict10.org/)
-* [Matt Mahan Mayor of San Jose](https://www.sjmayormatt.com/)
-* [Sylvia Arenas Supervisor District 1 Santa Clara County](https://d1.santaclaracounty.gov/home)
-* [Gail Pellerin Assembly member District 28 State of CA](https://a28.asmdc.org/)
-* [Jimmy Panetta US Representative (Congressman in the House) CA District 19](https://panetta.house.gov/)
-* [Alex Padilla, Senator of CA](https://www.padilla.senate.gov/)
-* [Adam Schiff, Senator of CA](https://www.schiff.senate.gov/)
-* [Gavin Newsom Governor of CA](https://www.gov.ca.gov/)
-* [Rob Bonta Attorney General of CA](https://oag.ca.gov/about)
+* [George Casey, District 10 City of San Jose](https://www.sjdistrict10.org/)
+* [Matt Mahan, Mayor of San Jose](https://www.sjmayormatt.com/)
+* [Sylvia Arenas, Supervisor District 1 Santa Clara County](https://d1.santaclaracounty.gov/home)
+* [Gail Pellerin, State Assembly Member District 28](https://a28.asmdc.org/)
+* [Dave Cortese, State Senator District 15](https://sd15.senate.ca.gov/)
+* [Jimmy Panetta, US Representative District 19](https://panetta.house.gov/)
+* [Alex Padilla, Senator](https://www.padilla.senate.gov/)
+* [Adam Schiff, Senator](https://www.schiff.senate.gov/)
+* [Gavin Newsom, Governor](https://www.gov.ca.gov/)
+* [Rob Bonta, Attorney General](https://oag.ca.gov/about)
 
 If you are interested in local neighborhood issues and advocating, please contact us at ranchostna@gmail.com. Attention of Community Action Committee.

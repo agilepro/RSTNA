@@ -17,9 +17,9 @@ The Crime & Neighborhood Watch Committee is dedicated to promoting safety and se
 
 ----
 
-We started to form Neighborhood Watches for several streets within our Neighborhood Association. This is an ongoing process. Once Neighborhood Watches form, they receive signs from the city.
+We started to form Neighborhood Watch Groups for several streets within our Neighborhood Association. This is an ongoing process. Once Neighborhood Watch Groups form, they receive signs from the city.
 
-If you are interested in Crime Prevention and Neighborhood Watch Groups, please contact us at ranchostna@gmail.com . Attention of Crime Prevention and Neighborhood Watch Committee. 
+If you are interested in Crime Prevention and Neighborhood Watch Groups, please contact us at ranchostna@gmail.com. Attention of Crime and Neighborhood Watch Committee. 
 
 **Installing a Neighborhood Watch sign:**
 

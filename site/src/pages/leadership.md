@@ -18,13 +18,7 @@ title: "RSTNA: Leadership"
 ## Ute Orgassa, Secretary / Communications
 
 
-&nbsp;
-
-## Joyce Collier, Community Building
-
-&nbsp;
-
-## Keith Swenson, Webmaster
+# Committee Leads
 
 &nbsp;
 
@@ -32,7 +26,19 @@ title: "RSTNA: Leadership"
 
 &nbsp;
 
-## Mike Bryant, Emergency Preparedness
+## Mike Bryant, Community Action
+
+&nbsp;
+
+## Keith Swenson, Webmaster
+
+&nbsp;
+
+## Open, Community Building
+
+&nbsp;
+
+## Open, Emergency Preparedness
 
 &nbsp;
 
