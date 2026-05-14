@@ -33,9 +33,9 @@ The [Communications Committee](../communications) supports the association's mis
 
 The [Community Action Committee](../community-action) aims to mobilize residents to address local issues and advocate for improvements in neighborhood services and infrastructure, in line with our mission to enhance the quality of life.
 
-## Community Building/Beautification Committee
+## Community Building Committee
 
-The [Community Building Committee](../beautification) focuses on enhancing the physical and social environment, fostering connections among neighbors as outlined in our mission.
+The [Community Building Committee](../beautification) focuses on enhancing the social environment, fostering connections among neighbors as outlined in our mission.
 
 ## Crime & Neighborhood Watch Committee
 

@@ -15,10 +15,12 @@ The Emergency Preparedness Committee equips residents with the knowledge and res
 
 ----
 
-Several of our members have graduated from the [CERT basic training](https://www.sanjoseca.gov/your-government/departments-offices/office-of-the-city-manager/emergency-management/be-trained/community-emergency-response-team-training). A few more are in the process of getting certified. This is an ongoing process, and the more people in the community and neighborhood know how to prepare for and react in a disaster, the better. Michael Bryant coordinates and tracks our participants. 
+Several of our members have graduated from the [CERT basic training](https://www.sanjoseca.gov/your-government/departments-offices/office-of-the-city-manager/emergency-management/be-trained/community-emergency-response-team-training). A few more are in the process of getting certified. This is an ongoing process, and the more people in the community and neighborhood that know how to prepare for and react in a disaster, the better.
 
-If you are interested in emergency preparedness, please contact us at ranchostna@gmail.com . Attention of Emergency Preparedness Committee. 
+If you are interested in emergency preparedness, please contact us at ranchostna@gmail.com. Attention of Emergency Preparedness Committee. 
 
 ----
 
 ![](../images/emergency-operations-center.png)
+
+(Photo courtesy of Colin Tanner)
