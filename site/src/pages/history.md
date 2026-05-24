@@ -9,8 +9,10 @@ The Rancho Santa Teresa Neighborhood Association was founded in 2025 holding its
 
 ## General Meeting - Feb 2026
 
-The February meeting included RSTNA Committee updates and a presentation on the VTA Safe Parking Site.  [Minutes of the Feb 2026 meeting](https://s06.circleweaver.com/weaver/t/rstna/main-committee/MeetPrint.htm?id=8710&tem=MinutesDetails.chtml&mnm=R9B5P4Q2). Presentation Slides - Safe Parking
+The February meeting included RSTNA Committee updates and a presentation on the VTA Safe Parking Site.
 
+* [Minutes of the Feb 2026 meeting](https://s06.circleweaver.com/weaver/t/rstna/main-committee/MeetPrint.htm?id=8710&tem=MinutesDetails.chtml&mnm=R9B5P4Q2)
+* [Presentation Slides - Safe Parking](https://docs.google.com/presentation/d/1ztMnPkTu8qkj8DIO9xOCZhEQ645H3b_Pk7-1oVwsaAg/edit?slide=id.g3aeb524acb5_2_75#slide=id.g3aeb524acb5_2_75)
 
 
 ## Neighborhood Watch Program - Dec 2025
@@ -25,8 +27,8 @@ Councilmember George Casey and RSTNA sponsored a Dumpster Day for the local comm
 
 The October meeting included RSTNA Committee updates and a presentation on Earthquake Preparedness.  
 
-* [Minutes of the Oct 2025 meeting](https://s06.circleweaver.com/weaver/t/rstna/main-committee/MeetPrint.htm?id=6858&tem=MinutesDetails.chtml&mnm=A5N5O4Q2). 
-* [Presentation Slides Emergency Preparedness](../RSTNA-Preparedness-2025-10.pdf)
+* [Minutes of the Oct 2025 meeting](https://s06.circleweaver.com/weaver/t/rstna/main-committee/MeetPrint.htm?id=6858&tem=MinutesDetails.chtml&mnm=A5N5O4Q2)
+* [Presentation Slides - Emergency Preparedness](../RSTNA-Preparedness-2025-10.pdf)
 
 ## Neighborhood Watch Program - Oct 2025
 

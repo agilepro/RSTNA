@@ -5,14 +5,6 @@ title: "RSTNA: Events"
 
 # Upcoming Events
 
-## CERT 5K Family Fun Run - Mar 28, 2026 (free)
-
-See the flyer for more information and to register.  This event is sponsored by District 10 Councilmember George Casey and CERT (Community Emergency Response Teams).
- 
-[Flyer](https://www.sjdistrict10.org/events/cert-5k-family-fun-run)
-
-
-
 ## National Night Out - Aug 4, 2026
 
 The best way to build a safer community is to know your neighbors and your surroundings.  National Night Out provides a great opportunity to bring police and neighbors together under positive circumstances.
@@ -25,6 +17,10 @@ Councilmember George Casey and RSTNA are sponsoring a Dumpster Day for the local
 
 The October meeting will provide RSTNA Committee updates and a presentation - topic to be determined. More information to come.
 
+## District 10 Events
+
+Visit the [District 10 webpage](https://www.sjdistrict10.org/events) to find out about upcoming events in our District.
+
 ----
 
 # Past Meetings
@@ -33,15 +29,17 @@ For RSTNA history and earlier events, please see [History](../history).
 
 ## General Meeting - Feb 2026
 
-The February meeting included RSTNA Committee updates and a presentation on the VTA Safe Parking Site.  [Minutes of the Feb 2026 meeting](https://s06.circleweaver.com/weaver/t/rstna/main-committee/MeetPrint.htm?id=8710&tem=MinutesDetails.chtml&mnm=R9B5P4Q2). Presentation Slides - Safe Parking
+The February meeting included RSTNA Committee updates and a presentation on the VTA Safe Parking Site.
+* [Minutes of the Feb 2026 meeting](https://s06.circleweaver.com/weaver/t/rstna/main-committee/MeetPrint.htm?id=8710&tem=MinutesDetails.chtml&mnm=R9B5P4Q2)
+* [Presentation Slides - Safe Parking](https://docs.google.com/presentation/d/1ztMnPkTu8qkj8DIO9xOCZhEQ645H3b_Pk7-1oVwsaAg/edit?slide=id.g3aeb524acb5_2_75#slide=id.g3aeb524acb5_2_75)
 
 
 ## General Meeting – Oct 2025
 
 The October meeting included RSTNA Committee updates and a presentation on Earthquake Preparedness.  
 
-* [Minutes of the Oct 2025 meeting](https://s06.circleweaver.com/weaver/t/rstna/main-committee/MeetPrint.htm?id=6858&tem=MinutesDetails.chtml&mnm=A5N5O4Q2). 
-* [Presentation Slides Emergency Preparedness](../RSTNA-Preparedness-2025-10.pdf)
+* [Minutes of the Oct 2025 meeting](https://s06.circleweaver.com/weaver/t/rstna/main-committee/MeetPrint.htm?id=6858&tem=MinutesDetails.chtml&mnm=A5N5O4Q2)
+* [Presentation Slides - Emergency Preparedness](../RSTNA-Preparedness-2025-10.pdf)
 
  
 ## General Meeting – Jun 2025
