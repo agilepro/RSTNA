@@ -7,7 +7,44 @@ title: "RSTNA: Events"
 
 ## National Night Out - Aug 4, 2026
 
-The best way to build a safer community is to know your neighbors and your surroundings.  National Night Out provides a great opportunity to bring police and neighbors together under positive circumstances.
+The best way to build a safer community is to know your neighbors and your surroundings.  National Night Out provides a great opportunity to bring police and neighbors together under positive circumstances.  See [flyer below](#national-night-out-flyer).
+
+## San José City Council – Vote on Zoning Change
+
+- [Information Meeting](../zoning-code-change/#meeting-on-august-5): **Aug 5, 2026**
+- [City Council Vote](../zoning-code-change/#meeting-on-august-18): **Aug 18, 2026**
+
+The San José City Council will be voting on a major change in the city’s zoning laws.  (See [details here](../zoning-code-change))   Two important changes that could impact our neighborhood:
+
+- Increase the density in the Residential Neighborhood land use designation from 8 DU/AC (Dwelling Units/Acre) to 32 DU/AC
+- Allow a maximum building height of 35 feet and 3 stories in Residential Neighborhood
+
+These changes would be extremely significant and would change the nature of the neighborhood because it would allow four dwelling units on a 60’x100’ lot as opposed to the current zoning that allows only one dwelling unit.
+
+## Information Meeting
+
+- Date: Wednesday, **August 5, 2026**
+- Time: **5:30 pm**
+- Location: **Vineland Branch Library**, 1450 Blossom Hill Road San José
+- See [flyer](../zoning-code-change/#flyer)
+
+## City Council Meeting (includes voting on the recommendations)
+
+- Date: Tuesday, **August 18, 2026**
+- Time: TBD
+- Location: **San José City Hall**, 200 E. Santa Clara St., San José
+
+For more information see: [RSTNA Community Action Chair comments](../zoning-questions/)
+
+To submit comments: [Send Comments to City of San José](../zoning-code-change/#send-comments-to-city-of-san-josé)
+
+## Car Theft and Vandalism: Aug 13
+
+Recently there have been a rash of car thefts and vandalism in the Rancho Santa Teresa Swim and Racquet Club area. The San José Police Department and the Rancho Santa Teresa Neighborhood Association (RSTNA) will be presenting a program on preventing car theft and vandalism.
+
+- Date: Thursday, **August 13, 2026**
+- Time: **7:00 pm**
+- Location: **Clubhouse**, 286 Sorrento Way, San Jose, CA 95119
 
 ## Dumpster Day - Sep 26, 2026
 
@@ -20,6 +57,10 @@ The October meeting will provide RSTNA Committee updates and a presentation - to
 ## District 10 Events
 
 Visit the [District 10 webpage](https://www.sjdistrict10.org/events) to find out about upcoming events in our District.
+
+## National Night Out Flyer
+
+![](../images/RSTNA-National-Night-Out-Flyer-2026.png)
 
 ----
 
