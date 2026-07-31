@@ -39,7 +39,7 @@ const menuItems = [
   },
   {
     title: 'Photos',
-    path: '/photos',
+    path: '/photos2025',
   },
 ]
 

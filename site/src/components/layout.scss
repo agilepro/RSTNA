@@ -109,3 +109,44 @@ th {
 .stupidFloatEnder {
   clear: both;
 }
+
+.photo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 2rem;
+}
+
+.photo-thumb-wrapper {
+  cursor: pointer;
+  position: relative;
+  width: 300px;
+
+  &:hover .photo-thumb {
+    opacity: 0.85;
+  }
+}
+
+.photo-thumb {
+  display: block;
+  width: 300px;
+  height: 300px;
+  box-shadow: 2px 2px 3px 1px #7e7058;
+  background-color: #7e7058;
+}
+
+.photo-thumb-caption {
+  background-color: rgba(0, 0, 0, 0.55);
+  color: #fff;
+  font-family: 'Fondamento', sans-serif;
+  font-size: 0.78rem;
+  padding: 4px 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.photo-thumb-date {
+  font-size: 0.72rem;
+  color: #eab965;
+}
