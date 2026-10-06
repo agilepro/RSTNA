@@ -14,7 +14,10 @@ These changes would be extremely significant and would change the nature of the 
 
 Whether you would be opposed to the changes or would favor them, it is very important for you to attend the City Council Meeting and testify, if possible, because we understand it has a greater impact. No testimony has to exceed a single sentence.
 
-If you cannot attend in person, you can submit your comments (see separate link on this website).
+If you cannot attend in person, you can submit your comments (see [section below](../zoning-code-change/#send-comments-to-city-of-san-josé)).
+
+Our Rancho Santa Teresa Neighborhood Association (RSTNA) Community Action Chair has reviewed the proposed changes and developed a set of questions seeking greater clarity. You can [see his questions](../zoning-questions/) and include some or all in your
+comments if you choose (see [Zoning Change Questions](../zoning-questions/)).
 
 ## Meeting on August 5
 
@@ -41,8 +44,7 @@ Families and Homes opposes the proposed changes: [https://www.familieshomessj.or
 
 San José YIMBY favors more housing: [https://sanjoseyimby.org/](https://sanjoseyimby.org/)
 
-The Bay Area News Service reported on housing advocates and neighborhood
-groups taking different positions:
+The Bay Area News Service reported on housing advocates and neighborhood groups taking different positions:
 [https://www.sfgate.com/news/bayarea/article/san-jose-spotlight-battle-lines-drawn-in-san-22342046.php](https://www.sfgate.com/news/bayarea/article/san-jose-spotlight-battle-lines-drawn-in-san-22342046.php)
 
 Letters from the public commenting on the proposed changes can be found at this
@@ -77,7 +79,6 @@ matt.mahan@sanjoseca.gov, pam.foley@sanjoseca.gov, city.clerk@sanjoseca.gov, ant
 
 
 ## Flyer
-
 
 ![](../images/san-jose-town-hall-aug-2026.png)
 

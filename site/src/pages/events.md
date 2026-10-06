@@ -21,14 +21,14 @@ The San José City Council will be voting on a major change in the city’s zoni
 
 These changes would be extremely significant and would change the nature of the neighborhood because it would allow four dwelling units on a 60’x100’ lot as opposed to the current zoning that allows only one dwelling unit.
 
-## Information Meeting
+## Information Meeting - Zoning Change
 
 - Date: Wednesday, **August 5, 2026**
 - Time: **5:30 pm**
 - Location: **Vineland Branch Library**, 1450 Blossom Hill Road San José
 - See [flyer](../zoning-code-change/#flyer)
 
-## City Council Meeting (includes voting on the recommendations)
+## City Council Meeting (includes voting on the Zoning Change)
 
 - Date: Tuesday, **August 18, 2026**
 - Time: TBD
@@ -48,7 +48,7 @@ Recently there have been a rash of car thefts and vandalism in the Rancho Santa 
 
 ## Dumpster Day - Sep 26, 2026
 
-Councilmember George Casey and RSTNA are sponsoring a Dumpster Day for the local community from 9-noon. More information to come.
+Councilmember George Casey, RSTNA, and STBNA are sponsoring a Dumpster Day for the local community from 9-noon. More information to come.
 
 ## General Meeting - Oct 15, 2026 (tentative date)
 

@@ -4,9 +4,7 @@ title: "SJ Zoning Change Questions"
 ---
 # Zoning Change Questions
 
-Mike Bryant is the Rancho Santa Teresa Neighborhood Association (RSTNA)
-Community Action Chair. He has reviewed the proposed changes to City zoning
-and is sharing his questions about those changes.
+Mike Bryant is the Rancho Santa Teresa Neighborhood Association (RSTNA) Community Action Chair. He has reviewed the proposed changes to City zoning and is sharing his questions about those changes.
 
 
 - [Information Meeting](../zoning-code-change/#meeting-on-august-5): **Aug 5, 2026**
