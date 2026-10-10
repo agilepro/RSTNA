@@ -13,8 +13,9 @@ const captionMap = Object.fromEntries(
 
 const PhotoPage = ({ data }) => (
   <Layout>
+    <title>RSTNA: Photos</title>
     <div className="container my-5">
-      <h1>Photo Gallery 2025</h1>
+      <h1>Photo Gallery</h1>
       <Gallery>
         <div className="photo-grid">
           {data.photoList.edges.map(({ node }) => {
@@ -65,7 +66,7 @@ export const photoQuery = graphql`
         dir: { regex: "/photos.2025/" }
         extension: { regex: "/jpg/i" }
       }
-      sort: { base: ASC }
+      sort: { base: DESC }
     ) {
       edges {
         node {
