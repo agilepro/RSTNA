@@ -9,13 +9,9 @@ title: "RSTNA: Leadership"
 
 ## Bill Wolf, President 
 
-
-
 ## Pat Ota, Vice President
 
-
-
-## Ute Orgassa, Secretary / Communications
+## Ute Orgassa, Secretary / Emergency Preparedness
 
 
 # Committee Leads
@@ -38,7 +34,7 @@ title: "RSTNA: Leadership"
 
 &nbsp;
 
-## Open, Emergency Preparedness
+## Ute Orgassa, Emergency Preparedness
 
 &nbsp;
 
