@@ -15,7 +15,7 @@ const PhotoPage = ({ data }) => (
   <Layout>
     <title>RSTNA: Photos</title>
     <div className="container my-5">
-      <h1>Photo Gallery</h1>
+      <h1>Photo Gallery 2025</h1>
       <Gallery>
         <div className="photo-grid">
           {data.photoList.edges.map(({ node }) => {
